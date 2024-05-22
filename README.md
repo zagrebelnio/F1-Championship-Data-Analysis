@@ -1,8 +1,8 @@
 # F1-Championship-Data-Analysis
  
-## Contributing
+## Data Storage Schema
 
-[Schema](https://dbdiagram.io/d/F1-data-analysis-664d9c74f84ecd1d22d34528)
+[Schema Link](https://dbdiagram.io/d/F1-data-analysis-664d9c74f84ecd1d22d34528)
 
 ## Contributing
 
