@@ -1,5 +1,9 @@
 # F1-Championship-Data-Analysis
  
+## Data Storage Schema
+
+[Schema Link](https://dbdiagram.io/d/Copy-of-F1-data-analysis-664dcf35f84ecd1d22d8f8d9)
+
 ## Contributing
 
 ### Creating pull requests
