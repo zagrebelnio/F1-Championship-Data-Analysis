@@ -2,7 +2,7 @@
  
 ## Data Storage Schema
 
-[Schema Link](https://dbdiagram.io/d/F1-data-analysis-664d9c74f84ecd1d22d34528)
+[Schema Link](https://dbdiagram.io/d/Copy-of-F1-data-analysis-664dcf35f84ecd1d22d8f8d9)
 
 ## Contributing
 
