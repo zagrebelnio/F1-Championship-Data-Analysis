@@ -37,10 +37,10 @@ CREATE TABLE drivers (
     first_name VARCHAR,
     last_name VARCHAR,
     full_name VARCHAR,
-    abbrevation CHAR(3),
-    permanentNumber INTEGER,
+    abbreviation CHAR(3),
+    permanent_number INTEGER,
     gender VARCHAR,
-    dateOfBirth DATE,
+    date_of_birth DATE,
     nationality_country_id INTEGER REFERENCES countries(id)
 );
 
@@ -50,7 +50,7 @@ CREATE TABLE grand_prix (
     name VARCHAR,
     full_name TEXT,
     short_name VARCHAR,
-    abbrevation CHAR(3),
+    abbreviation CHAR(3),
     country_id INTEGER REFERENCES countries(id)
 );
 
@@ -250,8 +250,6 @@ CREATE TABLE races_driver_standings (
     points INTEGER,
     positions_gained INTEGER
 );
-
-
 
 -- Table seasons_constructor_standings
 CREATE TABLE seasons_constructor_standings (
