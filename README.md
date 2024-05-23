@@ -1,5 +1,11 @@
 # F1-Championship-Data-Analysis
 
+## Usage
+
+1. Create .env file and fill it as in .env.example
+2. Execute everything in /storage/scripts/creatt_storage.ipynb
+3. Execute everything in /storage/scripts/dimension_tables.ipynb
+
 ## Datasets
 
 This project uses datasets from the [F1DB](https://github.com/f1db/f1db) database.
