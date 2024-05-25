@@ -1,0 +1,184 @@
+id,name,fullName,countryId
+1,Adams,Adams,237
+2,AFM,Alex von Falkenhausen Motorenbau,84
+3,AGS,Automobiles Gonfaronnaises Sportives,77
+4,Alfa Romeo,Alfa Romeo Racing,110
+5,Alfa Special,Alfa Special,206
+6,AlphaTauri,Scuderia AlphaTauri,110
+7,Alpine,Alpine F1 Team,77
+8,Alta,Alta Car and Engineering Company,235
+9,Amon,Chris Amon Racing,157
+10,Andrea Moda,Andrea Moda Formula,110
+11,Apollon,Apollon,217
+12,Arrows,Arrows Grand Prix International,235
+13,Arzani-Volpini,Scuderia Arzani-Volpini,110
+14,Aston Butterworth,Aston Butterworth,235
+15,Aston Martin,Aston Martin,235
+16,ATS,ATS Wheels,84
+17,ATS,Automobili Turismo e Sport,110
+18,Balsa,Balsa,84
+19,BAR,British American Racing,235
+20,Behra-Porsche,Behra-Porsche,84
+21,Bellasi,Bellasi,110
+22,Benetton,Benetton Formula,110
+23,BMW Sauber,BMW Sauber F1 Team,84
+24,BMW,BMW,84
+25,Boro,Boro,155
+26,Brabham,Motor Racing Developments,235
+27,Brawn,Brawn GP Formula One Team,235
+28,BRM,British Racing Motors,235
+29,Bromme,Bromme,237
+30,BRP,British Racing Partnership,235
+31,Bugatti,Bugatti,77
+32,Caterham,Caterham F1 Team,134
+33,Christensen,Christensen,237
+34,Cisitalia,Cisitalia,110
+35,Coloni,Scuderia Coloni,110
+36,Connaught,Connaught Engineering,235
+37,Connew,Connew Racing Team,235
+38,Cooper,Cooper Car Company,235
+39,Dallara,Dallara Automobili,110
+40,De Tomaso,De Tomaso Modena,110
+41,Deidt,Deidt,237
+42,Del Roy,Del Roy,237
+43,Derrington-Francis,Derrington-Francis Racing Team,235
+44,Dunn,Dunn,237
+45,Eagle,All American Racers,237
+46,Eifelland,Team Eifelland Caravans,84
+47,Elder,Elder,237
+48,Emeryson,Emeryson Cars,235
+49,EMW,Eisenacher Motorenwerk,84
+50,ENB,Ecurie National Belge,22
+51,Ensign,Ensign Racing,235
+52,Epperly,Epperly,237
+53,ERA,English Racing Automobiles,235
+54,EuroBrun,EuroBrun Racing,110
+55,Ewing,Ewing,237
+56,Ferguson,Harry Ferguson Research,235
+57,Ferrari,Scuderia Ferrari,110
+58,FIRST,FIRST Racing,110
+59,Fittipaldi,Fittipaldi Automotive,32
+60,Fondmetal,Fondmetal,110
+61,Footwork,Footwork Arrows,235
+62,Force India,Force India F1 Team,103
+63,Forti,Forti Corse,110
+64,Frank Williams Racing Cars,Frank Williams Racing Cars,235
+65,Frazer-Nash,Frazer-Nash,235
+66,Fry,Fry Racing Team,235
+67,Gilby,Gilby Engineering,235
+68,Gordini,Gordini,77
+69,Greifzu,Greifzu,84
+70,Haas,Haas F1 Team,237
+71,Hall,Hall,237
+72,Heck,Heck,84
+73,Hesketh,Hesketh Racing,235
+74,Hill,Embassy Racing With Graham Hill,235
+75,Honda,Honda Racing F1 Team,113
+76,HRT,Hispania Racing Team,210
+77,HWM,Hersham and Walton Motors,235
+78,Iso-Marlboro,Iso-Marlboro,235
+79,Jaguar,Jaguar Racing F1 Team,235
+80,JBW,JBW Cars,235
+81,Jordan,Jordan Grand Prix,107
+82,Kauhsen,Kauhsen,84
+83,Kick Sauber,Kick Sauber F1 Team,84
+84,Klenk,Klenk,84
+85,Kojima,Kojima Engineering,113
+86,Krakau,Krakau,84
+87,Kurtis,Kurtis,237
+88,Kuzma,Kuzma,237
+89,Lancia,Lancia,110
+90,Langley,Langley,237
+91,Larrousse,Larrousse F1,77
+92,LDS,LDS,206
+93,LEC,LEC Refrigeration Racing,235
+94,Lesovsky,Lesovsky,237
+95,Leyton House,Leyton House Racing,235
+96,Life,Life Racing Engines,110
+97,Ligier,Equipe Ligier,77
+98,Lola,Lola Cars,235
+99,Lotus,Lotus F1 Team,235
+100,Lotus Racing,Lotus Racing,134
+101,Lotus,Team Lotus,235
+102,Lyncar,Lyncar,235
+103,Maki,Maki Engineering,113
+104,Manor,Manor Racing,235
+105,March,March Engineering,235
+106,Marchese,Marchese,237
+107,Martini,Automobiles Martini,77
+108,Marussia,Marussia F1 Team,235
+109,Maserati,Maserati,110
+110,Matra,Equipe Matra Sports,77
+111,McGuire,McGuire,14
+112,McLaren,McLaren Racing,235
+113,Mercedes,Mercedes AMG F1,84
+114,Merzario,Team Merzario,110
+115,Meskowski,Meskowski,237
+116,Midland,Midland F1 Racing,183
+117,Minardi,Minardi F1 Team,110
+118,Modena,Modena Team,110
+119,Moore,Moore,237
+120,Nacke,Nacke,84
+121,Nichels,Nichels,237
+122,Olson,Olson,237
+123,Onyx,Onyx Grand Prix,235
+124,O.S.C.A.,Officine Specializzate Costruzione Automobili,110
+125,Osella,Osella Squadra Corse,110
+126,Pacific,Pacific Racing,235
+127,Pankratz,Pankratz,237
+128,Parnelli,Vel's Parnelli Jones Racing,237
+129,Pawl,Pawl,237
+130,Penske,Team Penske,237
+131,Phillips,Phillips,237
+132,Politoys,Politoys,235
+133,Porsche,Porsche,84
+134,Prost,Prost Grand Prix,77
+135,Protos,Protos,235
+136,Racing Point,Racing Point F1 Team,235
+137,Rae,Rae,237
+138,RAM,RAM Racing,235
+139,RB,Racing Bulls,110
+140,Rebaque,Team Rebaque,143
+141,Red Bull,Red Bull Racing,15
+142,Renault,Renault Sport Formula One Team,77
+143,Rial,Rial Racing,84
+144,Sauber,Sauber F1 Team,217
+145,Scarab,Scarab,237
+146,Schroeder,Schroeder,237
+147,Scirocco,Scirocco-Powell,235
+148,Shadow,Shadow Racing Cars,235
+149,Shannon,Shannon Racing Cars,235
+150,Sherman,Sherman,237
+151,Simca-Gordini,Simca-Gordini,77
+152,Simtek,Simtek,235
+153,Snowberger,Snowberger,237
+154,Spirit,Spirit Racing,235
+155,Spyker,Spyker F1 Team,155
+156,Stebro,Stebro,41
+157,Stevens,Stevens,237
+158,Stewart,Stewart Grand Prix,235
+159,Super Aguri,Super Aguri F1 Team,113
+160,Surtees,Surtees Racing Organisation,235
+161,Sutton,Sutton,237
+162,Talbot-Lago,Talbot-Lago,77
+163,Tec-Mec,Studio Tecnica Meccanica,237
+164,Tecno,Tecno Racing Team,110
+165,Theodore,Theodore Racing,100
+166,Token,Token Racing,235
+167,Toleman,Toleman Motorsport,235
+168,Toro Rosso,Scuderia Toro Rosso,110
+169,Toyota,Toyota Racing,113
+170,Trevis,Trevis,237
+171,Trojan,Trojan-Tauranac Racing,235
+172,Turner,Turner,237
+173,Tyrrell,Tyrrell Racing,235
+174,Vanwall,Vanwall,235
+175,Venturi,Venturi Automobiles,77
+176,Veritas,Veritas,84
+177,Virgin,Virgin Racing,235
+178,Watson,Watson,237
+179,Wetteroth,Wetteroth,237
+180,Williams,Williams Grand Prix Engineering,235
+181,Wolf-Williams,Wolf-Williams Racing,235
+182,Wolf,Walter Wolf Racing,41
+183,Zakspeed,Zakspeed Racing,84

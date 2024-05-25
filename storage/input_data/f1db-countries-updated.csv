@@ -1,0 +1,250 @@
+id,alpha2Code,alpha3Code,name,demonym
+afghanistan,AF,AFG,Afghanistan,Afghan
+aland-islands,AX,ALA,Åland Islands,Ålandic
+albania,AL,ALB,Albania,Albanian
+algeria,DZ,DZA,Algeria,Algerian
+american-samoa,AS,ASM,American Samoa,Samoan
+andorra,AD,AND,Andorra,Andorran
+angola,AO,AGO,Angola,Angolan
+anguilla,AI,AIA,Anguilla,Anguillan
+antarctica,AQ,ATA,Antarctica,Antarctican
+antigua-and-barbuda,AG,ATG,Antigua and Barbuda,Antiguan
+argentina,AR,ARG,Argentina,Argentine
+armenia,AM,ARM,Armenia,Armenian
+aruba,AW,ABW,Aruba,Arubian
+australia,AU,AUS,Australia,Australian
+austria,AT,AUT,Austria,Austrian
+azerbaijan,AZ,AZE,Azerbaijan,Azerbaijanian
+bahamas,BS,BHS,Bahamas,Bahamian
+bahrain,BH,BHR,Bahrain,Bahraini
+bangladesh,BD,BGD,Bangladesh,Bangladeshi
+barbados,BB,BRB,Barbados,Barbadian
+belarus,BY,BLR,Belarus,Belarusian
+belgium,BE,BEL,Belgium,Belgian
+belize,BZ,BLZ,Belize,Belizean
+benin,BJ,BEN,Benin,Beninese
+bermuda,BM,BMU,Bermuda,Bermudian
+bhutan,BT,BTN,Bhutan,Bhutanese
+bolivia,BO,BOL,Bolivia,Bolivian
+bonaire,BQ,BES,Bonaire,Bonairian
+bosnia-and-herzegovina,BA,BIH,Bosnia and Herzegovina,Bosnian
+botswana,BW,BWA,Botswana,Motswana
+bouvet-island,BV,BVT,Bouvet Island,
+brazil,BR,BRA,Brazil,Brazilian
+british-indian-ocean-territory,IO,IOT,British Indian Ocean Territory,
+british-virgin-islands,VG,VGB,British Virgin Islands,Virgin Islander
+brunei,BN,BRN,Brunei,Bruneian
+bulgaria,BG,BGR,Bulgaria,Bulgarian
+burkina-faso,BF,BFA,Burkina Faso,Burkinabe
+burundi,BI,BDI,Burundi,Burundian
+cambodia,KH,KHM,Cambodia,Cambodian
+cameroon,CM,CMR,Cameroon,Cameroonian
+canada,CA,CAN,Canada,Canadian
+cape-verde,CV,CPV,Cape Verde,Cape Verdean
+cayman-islands,KY,CYM,Cayman Islands,Caymanian
+central-african-republic,CF,CAF,Central African Republic,Central African
+chad,TD,TCD,Chad,Chadian
+chile,CL,CHL,Chile,Chilean
+china,CN,CHN,China,Chinese
+christmas-island,CX,CXR,Christmas Island,Christmas Islander
+cocos-keeling-islands,CC,CCK,Cocos (Keeling) Islands,Cocossian
+colombia,CO,COL,Colombia,Colombian
+comoros,KM,COM,Comoros,Comoran
+cook-islands,CK,COK,Cook Islands,Cook Islander
+costa-rica,CR,CRI,Costa Rica,Costa Rican
+croatia,HR,HRV,Croatia,Croatian
+cuba,CU,CUB,Cuba,Cuban
+curacao,CW,CUW,Curaçao,Curaçaoan
+cyprus,CY,CYP,Cyprus,Cypriot
+czech-republic,CZ,CZE,Czech Republic,Czech
+democratic-republic-of-the-congo,CD,COD,Democratic Republic of the Congo,Congolese
+denmark,DK,DNK,Denmark,Danish
+djibouti,DJ,DJI,Djibouti,Djiboutian
+dominica,DM,DMA,Dominica,Dominican
+dominican-republic,DO,DOM,Dominican Republic,Dominican
+east-timor,TL,TLS,East Timor,East Timorese
+ecuador,EC,ECU,Ecuador,Ecuadorian
+egypt,EG,EGY,Egypt,Egyptian
+el-salvador,SV,SLV,El Salvador,Salvadoran
+equatorial-guinea,GQ,GNQ,Equatorial Guinea,Equatorial Guinean
+eritrea,ER,ERI,Eritrea,Eritrean
+estonia,EE,EST,Estonia,Estonian
+ethiopia,ET,ETH,Ethiopia,Ethiopian
+falkland-islands,FK,FLK,Falkland Islands,Falkland Islander
+faroe-islands,FO,FRO,Faroe Islands,Faroese
+federated-states-of-micronesia,FM,FSM,Federated States of Micronesia,Micronesian
+fiji,FJ,FJI,Fiji,Fijian
+finland,FI,FIN,Finland,Finnish
+france,FR,FRA,France,French
+french-guiana,GF,GUF,French Guiana,French Guianese
+french-polynesia,PF,PYF,French Polynesia,French Polynesian
+french-southern-territories,TF,ATF,French Southern Territories,French
+gabon,GA,GAB,Gabon,Gabonese
+gambia,GM,GMB,Gambia,Gambian
+georgia,GE,GEO,Georgia,Georgian
+germany,DE,DEU,Germany,German
+ghana,GH,GHA,Ghana,Ghanaian
+gibraltar,GI,GIB,Gibraltar,Gibraltarian
+greece,GR,GRC,Greece,Greek
+greenland,GL,GRL,Greenland,Greenlander
+grenada,GD,GRD,Grenada,Grenadian
+guadeloupe,GP,GLP,Guadeloupe,Guadeloupean
+guam,GU,GUM,Guam,Guamanian
+guatemala,GT,GTM,Guatemala,Guatemalan
+guernsey,GG,GGY,Guernsey,Sarnian
+guinea-bissau,GW,GNB,Guinea-Bissau,Guinean
+guinea,GN,GIN,Guinea,Guinean
+guyana,GY,GUY,Guyana,Guyanese
+haiti,HT,HTI,Haiti,Haitian
+heard-island-and-mcdonald-islands,HM,HMD,Heard Island and McDonald Islands,
+honduras,HN,HND,Honduras,Honduran
+hong-kong,HK,HKG,Hong Kong,Hongkongese
+hungary,HU,HUN,Hungary,Hungarian
+iceland,IS,ISL,Iceland,Icelander
+india,IN,IND,India,Indian
+indonesia,ID,IDN,Indonesia,Indonesian
+iran,IR,IRN,Iran,Iranian
+iraq,IQ,IRQ,Iraq,Iraqi
+ireland,IE,IRL,Ireland,Irish
+isle-of-man,IM,IMN,Isle of Man,Manx
+israel,IL,ISR,Israel,Israeli
+italy,IT,ITA,Italy,Italian
+ivory-coast,CI,CIV,Ivory Coast,Ivorian
+jamaica,JM,JAM,Jamaica,Jamaican
+japan,JP,JPN,Japan,Japanese
+jersey,JE,JEY,Jersey,
+jordan,JO,JOR,Jordan,Jordanian
+kazakhstan,KZ,KAZ,Kazakhstan,Kazakhstani
+kenya,KE,KEN,Kenya,Kenyan
+kiribati,KI,KIR,Kiribati,I-Kiribati
+kuwait,KW,KWT,Kuwait,Kuwaiti
+kyrgyzstan,KG,KGZ,Kyrgyzstan,Kyrgyzstani
+laos,LA,LAO,Laos,Laotian
+latvia,LV,LVA,Latvia,Latvian
+lebanon,LB,LBN,Lebanon,Lebanese
+lesotho,LS,LSO,Lesotho,Mosotho
+liberia,LR,LBR,Liberia,Liberian
+libya,LY,LBY,Libya,Libyan
+liechtenstein,LI,LIE,Liechtenstein,Liechtensteiner
+lithuania,LT,LTU,Lithuania,Lithuanian
+luxembourg,LU,LUX,Luxembourg,Luxembourger
+macau,MO,MAC,Macau,Macanese
+macedonia,MK,MKD,Macedonia,Macedonian
+madagascar,MG,MDG,Madagascar,Malagasy
+malawi,MW,MWI,Malawi,Malawian
+malaysia,MY,MYS,Malaysia,Malaysian
+maldives,MV,MDV,Maldives,Maldivian
+mali,ML,MLI,Mali,Malian
+malta,MT,MLT,Malta,Maltese
+marshall-islands,MH,MHL,Marshall Islands,Marshallese
+martinique,MQ,MTQ,Martinique,Martinican
+mauritania,MR,MRT,Mauritania,Mauritanian
+mauritius,MU,MUS,Mauritius,Mauritian
+mayotte,YT,MYT,Mayotte,Mahoran
+mexico,MX,MEX,Mexico,Mexican
+moldova,MD,MDA,Moldova,Moldovan
+monaco,MC,MCO,Monaco,Monégasque
+mongolia,MN,MNG,Mongolia,Mongolian
+montenegro,ME,MNE,Montenegro,Montenegrin
+montserrat,MS,MSR,Montserrat,Montserratian
+morocco,MA,MAR,Morocco,Moroccan
+mozambique,MZ,MOZ,Mozambique,Mozambican
+myanmar,MM,MMR,Myanmar,Burmese
+namibia,,NAM,Namibia,Namibian
+nauru,NR,NRU,Nauru,Nauruan
+nepal,NP,NPL,Nepal,Nepalese
+netherlands,NL,NLD,Netherlands,Dutch
+new-caledonia,NC,NCL,New Caledonia,New Caledonians
+new-zealand,NZ,NZL,New Zealand,New Zealander
+nicaragua,NI,NIC,Nicaragua,Nicaraguan
+niger,NE,NER,Niger,Nigerian
+nigeria,NG,NGA,Nigeria,Nigerian
+niue,NU,NIU,Niue,Niueans
+norfolk-island,NF,NFK,Norfolk Island,Norfolk Islander
+north-korea,KP,PRK,North Korea,North Korean
+northern-mariana-islands,MP,MNP,Northern Mariana Islands,Northern Marianan
+norway,NO,NOR,Norway,Norwegian
+oman,OM,OMN,Oman,Omani
+pakistan,PK,PAK,Pakistan,Pakistani
+palau,PW,PLW,Palau,Palauan
+palestine,PS,PSE,Palestine,Palestinian
+panama,PA,PAN,Panama,Panamanian
+papua-new-guinea,PG,PNG,Papua New Guinea,Papua New Guinean
+paraguay,PY,PRY,Paraguay,Paraguayan
+peru,PE,PER,Peru,Peruvian
+philippines,PH,PHL,Philippines,Filipino
+pitcairn-islands,PN,PCN,Pitcairn Islands,Pitcairn Islander
+poland,PL,POL,Poland,Polish
+portugal,PT,PRT,Portugal,Portuguese
+puerto-rico,PR,PRI,Puerto Rico,Puerto Rican
+qatar,QA,QAT,Qatar,Qatari
+republic-of-the-congo,CG,COG,Republic of the Congo,Congolese
+reunion,RE,REU,Réunion,Réunionese
+romania,RO,ROU,Romania,Romanian
+russia,RU,RUS,Russia,Russian
+rwanda,RW,RWA,Rwanda,Rwandan
+saint-barthelemy,BL,BLM,Saint Barthélemy,Barthélemois
+saint-helena-ascension-and-tristan-da-cunha,SH,SHN,"Saint Helena, Ascension and Tristan da Cunha",Saint Helenian
+saint-kitts-and-nevis,KN,KNA,Saint Kitts and Nevis,Kittian/Nevisian
+saint-lucia,LC,LCA,Saint Lucia,
+saint-martin,MF,MAF,Saint Martin,
+saint-pierre-and-miquelon,PM,SPM,Saint Pierre and Miquelon,Saint-Pierrais/Miquelonnais
+saint-vincent-and-the-grenadines,VC,VCT,Saint Vincent and the Grenadines,Saint Vincentian
+samoa,WS,WSM,Samoa,Samoan
+san-marino,SM,SMR,San Marino,Sammarinese
+sao-tome-and-principe,ST,STP,São Tomé and Príncipe,São Toméan
+saudi-arabia,SA,SAU,Saudi Arabia,Saudi Arabian
+senegal,SN,SEN,Senegal,Senegalese
+serbia,RS,SRB,Serbia,Serbian
+seychelles,SC,SYC,Seychelles,Seychellois
+sierra-leone,SL,SLE,Sierra Leone,Sierra Leonean
+singapore,SG,SGP,Singapore,Singaporean
+sint-maarten,SX,SXM,Sint Maarten,Sint Maartener
+slovakia,SK,SVK,Slovakia,Slovakian
+slovenia,SI,SVN,Slovenia,Slovenian
+solomon-islands,SB,SLB,Solomon Islands,Solomon Islander
+somalia,SO,SOM,Somalia,Somali
+south-africa,ZA,ZAF,South Africa,South African
+south-georgia-and-the-south-sandwich-islands,GS,SGS,South Georgia and the South Sandwich Islands,
+south-korea,KR,KOR,South Korea,South Korean
+south-sudan,SS,SSD,South Sudan,South Sudanese
+spain,ES,ESP,Spain,Spanish
+sri-lanka,LK,LKA,Sri Lanka,Sri Lankan
+sudan,SD,SDN,Sudan,Sudanese
+suriname,SR,SUR,Suriname,Surinamese
+svalbard-and-jan-mayen,SJ,SJM,Svalbard and Jan Mayen,
+swaziland,SZ,SWZ,Swaziland,Swazi
+sweden,SE,SWE,Sweden,Swedish
+switzerland,CH,CHE,Switzerland,Swiss
+syria,SY,SYR,Syria,Syrian
+taiwan,TW,TWN,Taiwan,Taiwanese
+tajikistan,TJ,TJK,Tajikistan,Tajikistani
+tanzania,TZ,TZA,Tanzania,Tanzanian
+thailand,TH,THA,Thailand,Thai
+togo,TG,TGO,Togo,Togolese
+tokelau,TK,TKL,Tokelau,Tokelauan
+tonga,TO,TON,Tonga,Tongan
+trinidad-and-tobago,TT,TTO,Trinidad and Tobago,Trinidadian/Tobagonian
+tunisia,TN,TUN,Tunisia,Tunisian
+turkey,TR,TUR,Turkey,Turkish
+turkmenistan,TM,TKM,Turkmenistan,Turkmenistani
+turks-and-caicos-islands,TC,TCA,Turks and Caicos Islands,Turks and Caicos Islander
+tuvalu,TV,TUV,Tuvalu,Tuvaluan
+uganda,UG,UGA,Uganda,Ugandan
+ukraine,UA,UKR,Ukraine,Ukrainian
+united-arab-emirates,AE,ARE,United Arab Emirates,Emirati
+united-kingdom,GB,GBR,United Kingdom,British
+united-states-minor-outlying-islands,UM,UMI,United States Minor Outlying Islands,
+united-states-of-america,US,USA,United States of America,American
+united-states-virgin-islands,VI,VIR,United States Virgin Islands,Virgin Islander
+uruguay,UY,URY,Uruguay,Uruguayan
+uzbekistan,UZ,UZB,Uzbekistan,Uzbekistani
+vanuatu,VU,VUT,Vanuatu,Ni-Vanuatu
+vatican-city,VA,VAT,Vatican City,Vatican
+venezuela,VE,VEN,Venezuela,Venezuelan
+vietnam,VN,VNM,Vietnam,Vietnamese
+wallis-and-futuna,WF,WLF,Wallis and Futuna,Wallisian/Futunan
+western-sahara,EH,ESH,Western Sahara,Western Saharan
+yemen,YE,YEM,Yemen,Yemeni
+zambia,ZM,ZMB,Zambia,Zambian
+zimbabwe,ZW,ZWE,Zimbabwe,Zimbabwean

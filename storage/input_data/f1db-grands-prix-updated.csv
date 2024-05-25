@@ -1,0 +1,53 @@
+id,name,fullName,shortName,abbreviation,countryId
+1,70th Anniversary,70th Anniversary Grand Prix,70th Anniversary GP,70A,235
+2,Abu Dhabi,Abu Dhabi Grand Prix,Abu Dhabi GP,ABD,234
+3,Argentina,Argentine Grand Prix,Argentine GP,ARG,11
+4,Australia,Australian Grand Prix,Australian GP,AUS,14
+5,Austria,Austrian Grand Prix,Austrian GP,AUT,15
+6,Azerbaijan,Azerbaijan Grand Prix,Azerbaijan GP,AZE,16
+7,Bahrain,Bahrain Grand Prix,Bahrain GP,BHR,18
+8,Belgium,Belgian Grand Prix,Belgian GP,BEL,22
+9,Brazil,Brazilian Grand Prix,Brazilian GP,BRA,32
+10,Caesars Palace,Caesars Palace Grand Prix,Caesars Palace GP,CAE,237
+11,Canada,Canadian Grand Prix,Canadian GP,CAN,41
+12,China,Chinese Grand Prix,Chinese GP,CHN,47
+13,Dallas,Dallas Grand Prix,Dallas GP,DAL,237
+14,Detroit,Detroit Grand Prix,Detroit GP,DET,237
+15,Eifel,Eifel Grand Prix,Eifel GP,EIF,84
+16,Emilia Romagna,Emilia Romagna Grand Prix,Emilia Romagna GP,EMR,110
+17,Europe,European Grand Prix,European GP,EUR,0
+18,France,French Grand Prix,French GP,FRA,77
+19,Germany,German Grand Prix,German GP,DEU,84
+20,Great Britain,British Grand Prix,British GP,GBR,235
+21,Hungary,Hungarian Grand Prix,Hungarian GP,HUN,101
+22,India,Indian Grand Prix,Indian GP,IND,103
+23,Indianapolis,Indianapolis 500,Indy 500,IND,237
+24,Italy,Italian Grand Prix,Italian GP,ITA,110
+25,Japan,Japanese Grand Prix,Japanese GP,JPN,113
+26,Korea,Korean Grand Prix,Korean GP,KOR,208
+27,Las Vegas,Las Vegas Grand Prix,Las Vegas GP,LAS,237
+28,Luxembourg,Luxembourg Grand Prix,Luxembourg GP,LUX,129
+29,Malaysia,Malaysian Grand Prix,Malaysian GP,MYS,134
+30,Mexico,Mexican Grand Prix,Mexican GP,MEX,143
+31,Miami,Miami Grand Prix,Miami GP,MIA,237
+32,Monaco,Monaco Grand Prix,Monaco GP,MCO,145
+33,Morocco,Moroccan Grand Prix,Moroccan GP,MAR,149
+34,Netherlands,Dutch Grand Prix,Dutch GP,NLD,155
+35,Pacific,Pacific Grand Prix,Pacific GP,PAC,0
+36,Pescara,Pescara Grand Prix,Pescara GP,PES,110
+37,Portugal,Portuguese Grand Prix,Portuguese GP,PRT,177
+38,Qatar,Qatar Grand Prix,Qatar GP,QAT,179
+39,Russia,Russian Grand Prix,Russian GP,RUS,183
+40,Sakhir,Sakhir Grand Prix,Sakhir GP,SAK,18
+41,San Marino,San Marino Grand Prix,San Marino GP,SMR,193
+42,Saudi Arabia,Saudi Arabian Grand Prix,Saudi Arabian GP,SAU,195
+43,Singapore,Singapore Grand Prix,Singapore GP,SGP,200
+44,South Africa,South African Grand Prix,South African GP,ZAF,206
+45,Spain,Spanish Grand Prix,Spanish GP,ESP,210
+46,Styria,Styrian Grand Prix,Styrian GP,STE,15
+47,Sweden,Swedish Grand Prix,Swedish GP,SWE,216
+48,Switzerland,Swiss Grand Prix,Swiss GP,CHE,217
+49,Turkey,Turkish Grand Prix,Turkish GP,TUR,228
+50,Tuscany,Tuscan Grand Prix,Tuscan GP,TUS,110
+51,United States West,United States Grand Prix West,United States GP West,USA,237
+52,United States,United States Grand Prix,United States GP,USA,237
